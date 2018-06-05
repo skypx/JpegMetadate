@@ -1,5 +1,5 @@
 
-package com.example.xp018347.kotlintest;
+package com.example.xxxx.kotlintest;
 
 import org.apache.commons.imaging.ImageReadException;
 import org.apache.commons.imaging.ImageWriteException;
